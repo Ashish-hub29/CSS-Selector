@@ -13,8 +13,9 @@ h2{
 }
 p{
   color: red;
+  text-align: center;
 }
-.fontsize{
+.note {
   font-size: 20px;
 }
 #id-selector-demo{
